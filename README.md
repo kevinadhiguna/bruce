@@ -12,6 +12,6 @@ Bruce is a password cracker with Brute Force algorithm written in Python.
 Note: You can also run it with python3. In case of that, just replace `python` with `python3`.
 4. Enter your password then wait until python will crack your password!
 
-## What is the difference between sbf.py and sbf2.py ?
+## What is the difference between sbf.py, sbf-num.py, and sbf2.py ?
 
-`sbf2.py` is slightly advanced than `sbf.py` and it includes all printable characters.
+`sbf2.py` is slightly advanced than `sbf.py` and it includes all printable characters. Meanwhile, you can make use of `sbf-num.py` when cracking a number-only password.  
