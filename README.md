@@ -2,6 +2,17 @@
 
 Bruce is a password cracker with Brute Force algorithm written in Python.
 
+## Demo
+This is how this app looks :
+
+### `sbf.py`
+<img src="https://raw.githubusercontent.com/kevinadhiguna/bruce/master/demo/1.png" width="40%"></img> <br>
+<img src="https://raw.githubusercontent.com/kevinadhiguna/bruce/master/demo/2.png" width="50%"></img> 
+
+### `sbf-num.py`
+<img src="https://raw.githubusercontent.com/kevinadhiguna/bruce/master/demo/3.png" width="70%"></img> 
+<img src="https://raw.githubusercontent.com/kevinadhiguna/bruce/master/demo/4.png" width="70%"></img> 
+
 ## How to Run :
 1. Clone this repository :<br />
 `git clone https://github.com/kevinadhiguna/bruce.git`
