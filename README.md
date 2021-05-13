@@ -26,3 +26,5 @@ Note: You can also run it with python3. In case of that, just replace `python` w
 ## What is the difference between sbf.py, sbf-num.py, and sbf2.py ?
 
 `sbf2.py` is slightly advanced than `sbf.py` and it includes all printable characters. Meanwhile, you can make use of `sbf-num.py` when cracking a number-only password.  
+
+[![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/bruce)](https://github.com/kevinadhiguna)
